@@ -1,16 +1,11 @@
-import './App.css'
+import "./App.css";
 
 function App() {
-
-
   return (
     <>
-   <div>
-    <h1>Site</h1>
-   </div>
-        
+      <h1 className=" underline font-bold mt-0 text-3xl">Ciao mondo!!!</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
